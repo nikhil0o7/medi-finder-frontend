@@ -1,0 +1,21 @@
+.AlertMessage {
+  display: overlay;
+  z-index: 1;
+  margin-top: 3%;
+}
+
+.regPageAlert {
+  margin-inline: 35%;
+  position: absolute;
+  transform: translateY(-100px);
+}
+
+.logPageAlert {
+  margin-inline: 25%;
+  position: absolute;
+}
+
+.approvePageAlert {
+  margin-inline: 25%;
+  position: absolute;
+}
